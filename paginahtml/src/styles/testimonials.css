@@ -1,0 +1,13 @@
+#testimonials {
+    min-height: calc(100vh - 91px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+}
+
+#testimonials_chef {
+    width: 500px;
+    height: auto;
+
+}
